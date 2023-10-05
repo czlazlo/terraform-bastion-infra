@@ -7,20 +7,20 @@ If you need to run the terraform, please change necessery resources to fit your 
 
 Resources contained in this infrastructure:
 
-  VPC
+  -VPC
   
-  IG
+  -IG
   
-  Public Subnet
+  -Public Subnet
   
-  Private Subnet 
+  -Private Subnet 
   
-  Route table
+  -Route table
   
-  2 EC2 instances
+  -2 EC2 instances
   
-  Elastic IP
+  -Elastic IP
   
-  Nat gateway
+  -Nat gateway
   
-  Security group with ingress and egress
+  -Security group with ingress and egress
