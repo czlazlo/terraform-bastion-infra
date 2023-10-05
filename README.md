@@ -24,3 +24,8 @@ Resources contained in this infrastructure:
   -Nat gateway
   
   -Security group with ingress and egress
+
+
+  Description:
+
+  I have created this infrastructure mimicking the bastion host topology and in order to deploy projects that can use the previously mentioned network architecture
